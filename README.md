@@ -4,6 +4,7 @@
 **A Bilingual AI Service Assistant**
 
 An academic project developed as part of the **LLM Application Engineering** training program at **SDAIA Academy**.
+**Training Organization:** [SDAIA – Saudi Data & AI Authority](https://sdaia.gov.sa/)
 
 ---
 

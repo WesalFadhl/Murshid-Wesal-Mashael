@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+murshid_outputs/
+murshid_submission.zip
+.DS_Store

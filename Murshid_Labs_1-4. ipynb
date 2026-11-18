@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyNgybfU79/fYikZ4Mwy/Vpt",
+      "authorship_tag": "ABX9TyNi/RlCtH9SyTsfGtTUe+/K",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -633,6 +633,41 @@
           ]
         }
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## Conclusion & Learning Outcomes\n",
+        "\n",
+        "Throughout the four labs of the **LLM Application Engineering (SDA-AIE-213)** program at SDAIA, we progressively developed Murshid, a bilingual public-service assistant, while gaining practical experience in designing, implementing, evaluating, and optimizing LLM-based applications.\n",
+        "\n",
+        "### Key Learning Outcomes\n",
+        "\n",
+        "- **Lab 1 — LLM Application Foundations:** Developed a bilingual assistant with structured responses, prompt management, mock model interactions, and basic performance tracking.\n",
+        "\n",
+        "- **Lab 2 — Tool Calling and Structured Workflows:** Implemented controlled tool interactions, application-status retrieval, input validation, request routing, and authorization checks.\n",
+        "\n",
+        "- **Lab 3 — Guardrails and Evaluation:** Applied input and output validation, explored instruction-injection risks, and evaluated system behavior using a golden test suite covering both successful responses and expected rejection scenarios.\n",
+        "\n",
+        "- **Lab 4 — Measurement and Optimization:** Implemented caching strategies, monitored performance metrics, examined hypothetical operational costs, and conducted regression testing to evaluate system consistency.\n",
+        "\n",
+        "### Overall Reflection\n",
+        "\n",
+        "This project strengthened our understanding of the LLM application engineering lifecycle, from initial system design to evaluation and performance optimization. We learned that developing reliable AI applications requires more than generating responses; it also involves structured workflows, controlled tool execution, data privacy, validation, measurable performance, and systematic testing.\n",
+        "\n",
+        "The cumulative implementation of Murshid provided practical experience in building modular, testable, and maintainable AI applications while highlighting the limitations of mock evaluations and the importance of further testing before production deployment.\n",
+        "\n",
+        "### Acknowledgment\n",
+        "\n",
+        "We would like to express our appreciation to the **Saudi Data & Artificial Intelligence Authority (SDAIA)** and our instructor, **Meaad Al-Marri**, for providing this valuable learning experience and guidance throughout the program.\n",
+        "\n",
+        "**Developed by:**\n",
+        "- Wesal Al-Numani\n",
+        "- Mashael Al-Mufleh"
+      ],
+      "metadata": {
+        "id": "YNzP5Ybyksc8"
+      }
     }
   ]
 }
